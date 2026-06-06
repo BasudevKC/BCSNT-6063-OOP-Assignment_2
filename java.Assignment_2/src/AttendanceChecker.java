@@ -17,7 +17,7 @@ public class AttendanceChecker {
         if (percentage >= 75) {
             System.out.println("Eligible for Exam :)");
         } else {
-            System.out.println("Not Eligible foe exam :(");
+            System.out.println("Not Eligible for exam :(");
         }
     }
 }
